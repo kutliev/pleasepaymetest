@@ -1,0 +1,5 @@
+{
+  "apiBase": "https://api.pleasepay.co.uk/",
+  "apiCountries": "countries",
+  "apiCurrencies": "currencies"
+}

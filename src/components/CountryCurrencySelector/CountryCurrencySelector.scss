@@ -1,0 +1,9 @@
+@import '../../styles/variables.scss';
+
+.selector {
+  width: 100%;
+  max-width: $dropdown-width;
+  height: $dropdown-height;
+  border: 1px $main-gray solid;
+  padding: 40px 31px 40px 35px;
+}
